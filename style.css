@@ -1,0 +1,111 @@
+body {
+    background: url(142.jpg)
+}
+
+.a {
+    width: 0px;
+    height: 0px;
+    border-top: 100px solid green;
+    border-bottom: 100px solid blue;
+    border-right: 100px solid red;
+    border-left: 100px solid yellow;
+}
+
+.b {
+    background: #8dff8d;
+    width: 200px;
+    height: 50px;
+    border: 5px solid green;
+    margin: 100px auto auto 100px;
+    border-top: 5px double green;
+    border-bottom: 5px dotted green;
+}
+
+.c {
+    background: #8dff8d;
+    width: 150px;
+    height: 200px;
+    border: 5px solid green;
+    border-top: none;
+    margin: auto auto auto 125px;
+}
+
+
+
+
+.playground {
+    margin: 0px auto;
+    
+}
+
+div.col {
+    display: inline-block;
+    width: 30%;
+    height: 500px;
+    margin-left: 20px;
+    background: #fff;
+}
+
+.innerbox1 {
+    width: 100%;
+    color: white;
+    height: 250px;
+    background: #004c5a;
+    text-align: center;
+}
+
+.title {
+    padding: 30px;
+    font-size: 30px;
+}
+
+.m,
+.o,
+.mo {
+    display: inline-block;
+    font-size: 25px
+}
+
+.m {
+    color: silver;
+    vertical-align: top;
+}
+
+.o {
+    color: white;
+    font-size: 75px;
+    line-height: normal;
+}
+
+.mo {
+    color: silver;
+    line-height: 60px;
+}
+
+.month {
+    margin: 10px auto;
+    width: 250px;
+    padding: 10px;
+    font-size: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    color: silver;
+}
+
+.innerbox2 {
+    color: silver;
+    padding: 40px 100px;
+    
+}
+
+.aa, .bb, .cc, .dd{
+    border-bottom: solid; 
+    border-width: 1px;
+    padding: 8px
+}
+
+.dd{
+    border-bottom: none;
+}
+
